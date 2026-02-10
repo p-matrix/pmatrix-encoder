@@ -84,4 +84,4 @@ MIT
 ---
 
 *P-MATRIX Runtime State Representation — pmatrix-3.5*
-*Patent: ZDP253151 (KR)*
+*Patent Pending: KR Application No. 10-2025-0216047*
