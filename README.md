@@ -81,7 +81,7 @@ All 12 invariants from the P-MATRIX Runtime State Schema v1.0.0:
 
 ## License
 
-Apache-2.0
+Apache-2.0. Copyright © 2026 Dong Hun Lee.
 
 ---
 
