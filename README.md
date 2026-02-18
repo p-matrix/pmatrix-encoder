@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18682846.svg)](https://doi.org/10.5281/zenodo.18682846)
+
 # pmatrix-encoder
 
 **Reference encoder for schema conformance. Not an execution engine.**
